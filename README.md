@@ -2,6 +2,8 @@
 Introduction to Data Science Project
 Using this dataset: https://www.kaggle.com/datasets/crawford/80-cereals
 
+The repo contains the Python notebook along with the final submited PDF with out findings.
+
 
 Question
 Is the rating of cereal brands affected by factors such as shelf placement, sugar content, and number of calories per serving?
