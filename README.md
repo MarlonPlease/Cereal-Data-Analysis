@@ -6,9 +6,11 @@ The repo contains the Python notebook along with the final submited PDF with out
 
 
 Question
+
 Is the rating of cereal brands affected by factors such as shelf placement, sugar content, and number of calories per serving?
 
 Hypothesis
+
 We hypothesize that cereals with high amounts of sugar, high calories and that are lowest
 on the shelf – closest to children’s eye levels – correlate to a higher rating of the cereal
 brand.
