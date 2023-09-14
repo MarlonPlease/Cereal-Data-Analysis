@@ -1,5 +1,5 @@
 # Cereal-Data-Analysis
-Introduction to Data Science Project
+And Introductory Data Science Project
 Using this dataset: https://www.kaggle.com/datasets/crawford/80-cereals
 
 The repo contains the Python notebook along with the final submited PDF with out findings.
